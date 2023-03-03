@@ -30,3 +30,7 @@ iot 개발자 과정 데이터베이스_MySQL
 1. MySQL 학습
     - SQL 고급
         - JOIN
+        - 테이블/뷰
+        - 인덱스
+2. MySQL 활용
+    - BookRentalShop 쿼리연습        
