@@ -33,4 +33,10 @@ iot 개발자 과정 데이터베이스_MySQL
         - 테이블/뷰
         - 인덱스
 2. MySQL 활용
-    - BookRentalShop 쿼리연습        
+    - BookRentalShop 쿼리 연습        
+
+## 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리 연습
+2. 코딩테스트
+    - BookRentalShop        
