@@ -1,6 +1,8 @@
 # DATABASE_2023
 iot 개발자 과정 데이터베이스_MySQL
 
+![mysql](https://github.com/llsuzn/DATABASE_2023/blob/main/images/mysql.png?raw=true)
+
 ## 1일차
 1. MySQL 학습
     - 데이터베이스 개요
